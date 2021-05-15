@@ -1,1 +1,1 @@
-print("mytaks")
+print("Hello world")
